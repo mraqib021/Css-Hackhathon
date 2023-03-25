@@ -1,0 +1,15 @@
+* {
+  /* border: 1px solid darkcyan   ; */
+}
+
+.back-Img {
+  background-image: url("https://img.freepik.com/free-photo/black-texture_1160-804.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.bg-img-sim {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
